@@ -9,9 +9,13 @@ body{
 	justify-content: center;
 	height: 100vh;
 	flex-direction: column;
+	background-color: yellow;
 }
 
 #logo{
 	height: 80px;
 	width: 80px;
+}
+#banner{
+	width:100%;
 }
